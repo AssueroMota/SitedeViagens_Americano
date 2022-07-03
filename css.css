@@ -76,7 +76,7 @@ header {
 .secondSection {
     background-color: rgb(255, 255, 255);
     max-height: 300px;
-    height: 200px;
+    height: 230px;
     width: 690px;
     margin: auto;
 }
@@ -109,7 +109,7 @@ header {
 }
 
 .enviar {
-    margin-top: 15px;
+    margin-top: 30px;
     padding: 10px;
     background-color: grey;
     color: #fff;
@@ -236,7 +236,7 @@ p {
     width: 86%;
     margin: auto;
     margin-left: 200px;
-    height: 250px;
+    height: 300px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -252,8 +252,10 @@ p {
 }
 
 .msg {
+    margin-top: 20px;
     height: 40px;
     width: 200px;
+    margin-bottom: 20px;
     background-color: rgb(255, 94, 94);
 }
 
@@ -338,7 +340,7 @@ p {
 
 .footer p:hover {
     color: black;
-    background-color: beige;
+   
 }
 
 .footer i{
